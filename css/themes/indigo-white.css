@@ -2,7 +2,7 @@
 
 main {
 	background-image: url(SpacePic.jpg);
-	background-size: cover;
+	background-size: initial;
 	color: indigo;
 }
 
