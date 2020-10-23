@@ -11,4 +11,5 @@ main {
 
 .icons-social a svg path{
 	fill: aqua;
+	size: 10px;
 }
