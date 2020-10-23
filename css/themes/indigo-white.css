@@ -3,7 +3,7 @@
 main {
 	background-image: url(SpacePic.jpg);
 	background-size: cover;
-	color: indigo;
+	color: rgb(0, 119, 255);
 }
 
 .tagline {
