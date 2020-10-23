@@ -5,6 +5,10 @@ main {
 	color: #FAFAFA;
 }
 
+tagline {
+	color: violet;
+}
+
 .icons-social a {
 	color: lime;
 }
