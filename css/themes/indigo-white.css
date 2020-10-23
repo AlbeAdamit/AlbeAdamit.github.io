@@ -1,8 +1,9 @@
 /* Theme */
 
 main {
-	color: indigo;
 	background-image: url(SpacePic.jpg);
+	background-size: cover;
+	color: indigo;
 }
 
 .tagline {
