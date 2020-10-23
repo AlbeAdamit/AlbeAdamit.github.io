@@ -12,6 +12,7 @@ main {
 
 .icons-social a {
 	color: lime;
+	-ms-transform:scale(1.25); transform: scale(1.25);
 }
 
 .icons-social a svg path{
