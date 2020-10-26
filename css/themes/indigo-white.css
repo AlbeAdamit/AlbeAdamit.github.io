@@ -3,15 +3,18 @@
 main {
 	background-image: url(SpacePic.jpg);
 	background-size: cover;
-	color: rgb(0, 119, 255);
+	color: whitesmoke;
 }
 
 .tagline {
 	color: rgb(255, 255, 255);
 }
 
+.icons-social a{
+	color: #B565A7;
+}
 .icons-social i:hover{     
-	color:yellow;
+	color: magenta;
 	transition: transform .2s;
 	-ms-transform:scale(1.25); 
 	/* IE 9 /     -webkit-transform: scale(1.25); / Safari 3-8 */
